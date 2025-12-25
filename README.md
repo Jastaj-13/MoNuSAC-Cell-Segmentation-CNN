@@ -13,5 +13,5 @@ Developed a U-Net based deep learning pipeline to segment and classify four cell
 - **Training:** 50 Epochs on Tesla T4 GPU.
 - **Inference:** Optimized for CPU deployment.
 
-## 🔗 Try it out
-[Link to Google Colab] | [Download Documentation PDF]
+## Try it out
+[https://colab.research.google.com/drive/1Yh1sBdhkJsmJ4N06hWHsGtslDwOi_S6z?usp=sharing] | [Download Documentation PDF]
